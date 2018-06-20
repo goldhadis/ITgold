@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#nine{
+	width: 200px;
+	height: 200px;
+}
+.one{
+	height: 50px;
+	width: 50px;
+    border:1px solid #000;
+	float: left;
+	margin: 3px;
+	background-color: orange;
+	border-radius: 10px;
+}
+.btn{
+	height: 30px;
+	width: 164px;
+	background-color: orange;
+
+}
